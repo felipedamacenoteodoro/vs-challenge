@@ -8,7 +8,7 @@ Há 25 anos no mercado, a **Veus Technology** é uma empresa brasileira ligada a
 
 ## Desafio VS
 
-Você deve implementar uma API utilizando *PHP* > 7.0. Nós recomendamos que você tente manter o seu códgo o mais simples possível. Se você precisar de qualquer informação adicional ou esclarecimento, você pode nos contatar pelo e-mail: **sistemas@veus.com.br**.
+Você deve implementar uma API utilizando *PHP* > 7.0. Nós recomendamos que você utilize o framework laravel ou lumen. Se você precisar de qualquer informação adicional ou esclarecimento, você pode nos contatar pelo e-mail: **sistemas@veus.com.br**.
 
 Vamos imaginar que a sua empresa possua um e-commerce e venda alguns produtos para laboratórios e hospitais...
 
@@ -21,14 +21,17 @@ Por exemplo: Um cliente deve conseguir buscar todas as seringas da marca BUNZL f
 
 A API também deve suportar __pagination__, __versioning__ e __sorting__.
 
-Sinta-se livre para usar qualquer library ou framework da sua preferência mas a regra de negócio deve estar o mais desaclopada possível deles.
+A regra de negócio deve estar o mais desaclopada possível, de seu melhor, utilize todos os conceitos que conhecer sobre orientação a objetos e funcionalidades do framework escolhido.
 
 Por favor, **não se esqueça** de providenciar uma pequena documentação de como levantar e testar o seu projeto.
 
-Bônus:
+Diferenciais:
 * Docker
 * Unit Test
 * User Interface
+* Clean Code
+* DDD
+* Modelagem de Dados
 
 ---
 Você será avaliado de acordo com a senioridade da posição a qual está aplicando. Ao finalizar o desafio você deve submeter o **Pull Request** com o seu código para a avaliação, após isso nos entrarem em contato com você através do e-mail passando um feedback do seu projeto.
