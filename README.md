@@ -8,7 +8,7 @@ Há 25 anos no mercado, a **Veus Technology** é uma empresa brasileira ligada a
 
 ## Desafio VS
 
-Você deve implementar uma API utilizando *PHP* > 7.0. Nós recomendamos que você utilize o framework laravel ou lumen. Se você precisar de qualquer informação adicional ou esclarecimento, você pode nos contatar pelo e-mail: **sistemas@veus.com.br**.
+Você deve implementar uma API utilizando *PHP* > 7.0. Nós recomendamos que você utilize o framework **laravel** ou **lumen**. Se você precisar de qualquer informação adicional ou esclarecimento, você pode nos contatar pelo e-mail: **sistemas@veus.com.br**.
 
 Vamos imaginar que a sua empresa possua um e-commerce e venda alguns produtos para laboratórios e hospitais...
 
@@ -21,11 +21,11 @@ Por exemplo: Um cliente deve conseguir buscar todas as seringas da marca BUNZL f
 
 A API também deve suportar __pagination__, __versioning__ e __sorting__.
 
-A regra de negócio deve estar o mais desaclopada possível, dê O seu melhor, utilize todos os conceitos que conhecer sobre orientação a objetos e funcionalidades do framework escolhido.
+A regra de negócio deve estar o mais **desaclopada** possível, dê O seu melhor, utilize todos os conceitos que conhecer sobre **orientação a objetos** e funcionalidades do framework escolhido.
 
 Por favor, **não se esqueça** de providenciar uma pequena documentação de como levantar e testar o seu projeto.
 
-Diferenciais:
+**Diferenciais:**
 * Docker
 * Unit Test
 * User Interface
