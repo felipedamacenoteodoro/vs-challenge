@@ -21,7 +21,7 @@ Por exemplo: Um cliente deve conseguir buscar todas as seringas da marca BUNZL f
 
 A API também deve suportar __pagination__, __versioning__ e __sorting__.
 
-A regra de negócio deve estar o mais desaclopada possível, de seu melhor, utilize todos os conceitos que conhecer sobre orientação a objetos e funcionalidades do framework escolhido.
+A regra de negócio deve estar o mais desaclopada possível, dê O seu melhor, utilize todos os conceitos que conhecer sobre orientação a objetos e funcionalidades do framework escolhido.
 
 Por favor, **não se esqueça** de providenciar uma pequena documentação de como levantar e testar o seu projeto.
 
